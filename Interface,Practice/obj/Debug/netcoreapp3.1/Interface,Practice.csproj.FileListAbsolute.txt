@@ -1,0 +1,13 @@
+C:\Users\admin\OneDrive\İş masası\C# Task(Interface)\Interface,Practice\Interface,Practice\bin\Debug\netcoreapp3.1\Interface,Practice.exe
+C:\Users\admin\OneDrive\İş masası\C# Task(Interface)\Interface,Practice\Interface,Practice\bin\Debug\netcoreapp3.1\Interface,Practice.deps.json
+C:\Users\admin\OneDrive\İş masası\C# Task(Interface)\Interface,Practice\Interface,Practice\bin\Debug\netcoreapp3.1\Interface,Practice.runtimeconfig.json
+C:\Users\admin\OneDrive\İş masası\C# Task(Interface)\Interface,Practice\Interface,Practice\bin\Debug\netcoreapp3.1\Interface,Practice.runtimeconfig.dev.json
+C:\Users\admin\OneDrive\İş masası\C# Task(Interface)\Interface,Practice\Interface,Practice\bin\Debug\netcoreapp3.1\Interface,Practice.dll
+C:\Users\admin\OneDrive\İş masası\C# Task(Interface)\Interface,Practice\Interface,Practice\bin\Debug\netcoreapp3.1\Interface,Practice.pdb
+C:\Users\admin\OneDrive\İş masası\C# Task(Interface)\Interface,Practice\Interface,Practice\obj\Debug\netcoreapp3.1\Interface,Practice.csprojAssemblyReference.cache
+C:\Users\admin\OneDrive\İş masası\C# Task(Interface)\Interface,Practice\Interface,Practice\obj\Debug\netcoreapp3.1\Interface,Practice.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\İş masası\C# Task(Interface)\Interface,Practice\Interface,Practice\obj\Debug\netcoreapp3.1\Interface,Practice.AssemblyInfo.cs
+C:\Users\admin\OneDrive\İş masası\C# Task(Interface)\Interface,Practice\Interface,Practice\obj\Debug\netcoreapp3.1\Interface,Practice.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\İş masası\C# Task(Interface)\Interface,Practice\Interface,Practice\obj\Debug\netcoreapp3.1\Interface,Practice.dll
+C:\Users\admin\OneDrive\İş masası\C# Task(Interface)\Interface,Practice\Interface,Practice\obj\Debug\netcoreapp3.1\Interface,Practice.pdb
+C:\Users\admin\OneDrive\İş masası\C# Task(Interface)\Interface,Practice\Interface,Practice\obj\Debug\netcoreapp3.1\Interface,Practice.genruntimeconfig.cache
