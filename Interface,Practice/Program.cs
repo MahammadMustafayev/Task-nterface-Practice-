@@ -7,6 +7,7 @@ namespace Interface_Practice.Models
     {
         static void Main(string[] args)
         {
+            
             #region Employer
             //Console.WriteLine("Işçinin adini daxil edin:");
             //string name = Console.ReadLine();

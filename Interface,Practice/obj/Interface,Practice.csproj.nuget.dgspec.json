@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\OneDrive\\İş masası\\Interface,Practice\\Interface,Practice\\Interface,Practice.csproj": {}
+    "C:\\Users\\admin\\OneDrive\\İş masası\\C# Task(Interface)\\Interface,Practice\\Interface,Practice\\Interface,Practice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\OneDrive\\İş masası\\Interface,Practice\\Interface,Practice\\Interface,Practice.csproj": {
+    "C:\\Users\\admin\\OneDrive\\İş masası\\C# Task(Interface)\\Interface,Practice\\Interface,Practice\\Interface,Practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\OneDrive\\İş masası\\Interface,Practice\\Interface,Practice\\Interface,Practice.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\OneDrive\\İş masası\\C# Task(Interface)\\Interface,Practice\\Interface,Practice\\Interface,Practice.csproj",
         "projectName": "Interface,Practice",
-        "projectPath": "C:\\Users\\admin\\OneDrive\\İş masası\\Interface,Practice\\Interface,Practice\\Interface,Practice.csproj",
+        "projectPath": "C:\\Users\\admin\\OneDrive\\İş masası\\C# Task(Interface)\\Interface,Practice\\Interface,Practice\\Interface,Practice.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\OneDrive\\İş masası\\Interface,Practice\\Interface,Practice\\obj\\",
+        "outputPath": "C:\\Users\\admin\\OneDrive\\İş masası\\C# Task(Interface)\\Interface,Practice\\Interface,Practice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

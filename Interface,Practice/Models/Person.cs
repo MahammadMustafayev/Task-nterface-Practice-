@@ -4,13 +4,13 @@ using System.Text;
 
 namespace Interface_Practice.Models
 {
-       class Person
+       abstract class Person
     {
         private int _age;
 
-        public  /*static*/ string Name { get; set; }
-        public  /*static*/ string Surname { get; set; }
-        public /*static*/ int Age
+        public   string Name { get; set; }
+        public  string Surname { get; set; }
+        public  int Age
         {
             get 
             {
